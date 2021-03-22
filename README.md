@@ -2,7 +2,7 @@
 - 👀 I’m interested in Linux and Web Developing
 - 🌱 I’m currently learning WD 
 - 💞️ I’m looking to collaborate on confident guys or company.
-- 📫 How to reach me mail: coshgun.hasanov@gmail.com
+- 📫 How to reach me email: coshgun.hasanov@gmail.com
 
 <!---
 chsnv/chsnv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
