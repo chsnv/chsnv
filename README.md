@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chsnv
 - 👀 I’m interested in Linux and Web developing
-- 🌱 I’m currently learning WD course
+- 🌱 I’m currently learning WD 
 - 💞️ I’m looking to collaborate on confident guys or company.
 - 📫 How to reach me mail: coshgun.hasanov@gmail.com
 
