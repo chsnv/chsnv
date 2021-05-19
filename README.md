@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chsnv
 - 👀 I’m interested in Linux and Web Developing
-- 🌱 I’m currently learning WD 
+- :linux: 
 - 💞️ I’m looking to collaborate on confident guys or company.
 - 📫 How to reach me email: coshgun.hasanov@gmail.com
 - :book: Müəllifi olduğum kitablar [Vi text Redaktoru](https://github.com/chsnv/chsnv/blob/main/Vi(Text%20Redaktoru).pdf) 
