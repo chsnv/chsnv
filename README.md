@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chsnv a CE
 - :computer: Linux & Programming interested areas
-- :book: My own books: [Linux və Shell Script](https://github.com/chsnv/chsnv/blob/main/Linux%20v%C9%99%20Shell%20Script.pdf) və [Vi text Redaktoru](https://github.com/chsnv/chsnv/blob/main/Vi(Text%20Redaktoru).pdf)
+- :book: My own book and cheatsheat: [Linux və Shell Script](https://github.com/chsnv/chsnv/blob/main/Linux%20v%C9%99%20Shell%20Script.pdf) və [Vi text Redaktoru](https://github.com/chsnv/chsnv/blob/main/Vi(Text%20Redaktoru).pdf)
 -  📫 How to reach me email: coshgun.hasanov@gmail.com
 <!---
 chsnv/chsnv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
