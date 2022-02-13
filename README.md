@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @chsnv a CE
-- :computer: Linux & Programming interested areas
+- :computer: Linux & Programming 
 - :book: My own book and cheatsheat: [Linux və Shell Script](https://github.com/chsnv/chsnv/blob/main/Linux%20v%C9%99%20Shell%20Script.pdf) və [Vi text Redaktoru](https://github.com/chsnv/chsnv/blob/main/Vi(Text%20Redaktoru).pdf)
 -  📫 How to reach me email: coshgun.hasanov@gmail.com
 <!---
